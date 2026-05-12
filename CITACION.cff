@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "TEC_DNAm_analysis"
+message: "If you use this repository, please cite the associated manuscript and Zenodo archive."
+type: software
+authors:
+
+* family-names: "Karakyriakou"
+  given-names: "Barbara"
+  repository-code: "https://github.com/Barbarak17/TEC_DNAm_analysis"
+  license: MIT
