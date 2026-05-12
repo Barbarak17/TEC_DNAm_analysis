@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1236995165.svg)](https://doi.org/10.5281/zenodo.20145286)
+
 # TEC_DNAm_analysis
 
 ## Description
